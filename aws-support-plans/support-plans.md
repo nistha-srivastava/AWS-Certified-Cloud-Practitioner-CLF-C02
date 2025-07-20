@@ -63,5 +63,17 @@ Enterprise  ➜ 15 minutes
 
 ---
 
+
 📚 **Reference:**
 - [AWS Support Plan Pricing & Features (Official Documentation)](https://aws.amazon.com/premiumsupport/pricing/)
+
+
+
+AWS trusted advisor core checks:
+AWS Trusted Advisor core checks are a subset of AWS Trusted Advisor's recommendations that are available for free to all AWS users. 
+These checks focus on core areas of security and performance, providing guidance on best practices for resource utilization and configuration. Key checks include :
+    - security recommendations for S3 bucket permissions
+    - security groups
+    - IAM usage
+    - MFA on the root account
+    - Checks for EBS and RDS public snapshots. 
